@@ -321,6 +321,7 @@ a {
   position: relative;
   cursor:pointer;
 }
+.main__imgs img{cursor:pointer}
 
 .main__imgs-dropdown {
   display: flex;
