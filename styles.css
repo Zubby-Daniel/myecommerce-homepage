@@ -244,10 +244,7 @@ a {
   position: relative;
 }
 
-video {
-  width: 100%;
-  height: auto;
-}
+
 
 .hero__section {
   position: absolute;
@@ -322,6 +319,7 @@ video {
   min-width: 250px;
   padding: 2rem;
   position: relative;
+  cursor:pointer;
 }
 
 .main__imgs-dropdown {
@@ -351,7 +349,7 @@ video {
   /* filter: brightness(80%); */
   box-shadow: 2px 2px 4px #333;
   border-radius: 50%;
-  cursor:pointer;
+  
 }
 
 .main__imgs h5 {
@@ -471,6 +469,7 @@ video {
 
 .new-arrival__img img {
   border-radius: 20px;
+  cursor:pointer;
 }
 
 .new-arrival__img img:hover {
