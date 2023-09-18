@@ -351,6 +351,7 @@ video {
   /* filter: brightness(80%); */
   box-shadow: 2px 2px 4px #333;
   border-radius: 50%;
+  cursor:pointer;
 }
 
 .main__imgs h5 {
